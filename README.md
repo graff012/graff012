@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=graff012" alt="graff012" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript, node.js, html, css**
+- 🌱 I’m currently learning **React, nextjs**
 
-- 📫 How to reach me **sobirjonovnuriddin@tutamail.com**
+- 📫 How to reach me **sobirjonovnuriddin43@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
